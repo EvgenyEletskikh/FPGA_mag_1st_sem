@@ -5,3 +5,5 @@
 Перечень выполненных заданий:
 
 1. [Частотное представление](./Frequency_domain/Frequency_domain.ipynb) (https://pysdr.org/content/frequency_domain.html)
+
+_*Примечание:*_ для полноценного просмотра рекомендуется скачать себе репозиторий и запустить на своем Jupiter Notebook
