@@ -4,4 +4,4 @@
 
 Перечень выполненных заданий:
 
-1. [Частотное представление](./Frequency_domain/Frequncy_domain.ipynb) (https://pysdr.org/content/frequency_domain.html)
+1. [Частотное представление](./Frequency_domain/Frequency_domain.ipynb) (https://pysdr.org/content/frequency_domain.html)
